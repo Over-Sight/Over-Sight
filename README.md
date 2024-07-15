@@ -62,8 +62,5 @@
 <a href="https://github.com/https://github.com/Over-Sight/FacebookPhish"><img title="FacebookPhish" src="https://github-readme-stats.vercel.app/api/pin/?username=Over-Sight&repo=FacebookPhish&theme=dark"></a>
 
 
-[![github-readme-twitter](http://github-readme-twitter.gazf.vercel.app/api?id=0verSight_)](https://github.com/Over-Sight/github-readme-twitter)
-
-
 ### Stargazers
 [![Stargazers repo roster for @Over-Sight/Over-Sight](http://reporoster.com/stars/Over-Sight/Over-Sight)](https://github.com/Over-Sight/Over-Sight)
